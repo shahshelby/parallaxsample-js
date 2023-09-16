@@ -11,6 +11,10 @@ This project demonstrates a parallax scrolling effect using JavaScript, creating
 - **JavaScript**
 - **HTML/CSS**
 
+## GitHub Page
+
+Explore the GitHub Page: [GitHub Page](https://shahshelby.github.io//parallaxsample-js/)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
