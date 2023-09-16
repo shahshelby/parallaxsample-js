@@ -1,4 +1,4 @@
-# Parallax Website with JavaScript
+# Parallax Website Sample with JavaScript
 
 This project demonstrates a parallax scrolling effect using JavaScript, creating an immersive user experience.
 
